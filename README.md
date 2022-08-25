@@ -1,6 +1,6 @@
 Hi there 👋
 
-Milchschnittyy/Milchschnittyy is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+Lukas is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
